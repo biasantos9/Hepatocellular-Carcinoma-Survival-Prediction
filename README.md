@@ -1,7 +1,9 @@
 # Machine-Learning-for-Survival-Prediction-in-Patients-with-Hepatocellular-Carcinoma-
 
 I. 
-Data Set 
+Data Set
+
+
 O data set utilizado será o Hepatocellular Carcinoma data set (HCC data set) [1], disponível no 
 Kaggle. Este data set contém dados clínicos reais de 165 doentes diagnosticados com CHC, e foi recolhido 
 no Centro Hospitalar e Universitário de Coimbra (CHUC), pelo Serviço de Medicina Interna A. 
@@ -15,8 +17,12 @@ sendo que, no total, os dados em falta representam 10,22% de todo o data set, pe
 têm informação completa em todos os campos (4,85%) [3], [4]. 
 Além disso, o data set inclui também um parâmetro de sobrevivência, ao longo de um ano, codificado 
 como uma variável binária com valores 0 (doente não sobreviveu) e 1 (doente sobreviveu). 
+
+
 II. 
 Ideia do projeto 
+
+
 O principal objetivo deste projeto é desenvolver um modelo que preveja a sobrevivência de pacientes 
 com carcinoma hepatocelular, utilizando dados de doentes previamente diagnosticados, através da 
 implementação de técnicas de Machine Learning. Os dados fornecidos pelo data set envolvem diversos 
@@ -25,14 +31,22 @@ avaliar no projeto.
 A escolha prévia deste projeto baseou-se no facto de os dados fornecidos serem relativamente recentes 
 e referentes a indivíduos portugueses. Assim, findado o desenvolvimento do modelo, torna-se possível 
 obter informação bastante útil, pertinente e atual. 
+
+
 III. 
 Software 
+
+
 Este projeto será desenvolvido recorrendo maioritariamente a Python, onde se irá procurar 
 implementar a técnica de Machine Learning que melhor prevê a sobrevivência, ao longo de um ano, do 
 doente com CHC. O modelo implementado criará um classificador binário, ou seja, em que existem apenas 
 2 resultados possíveis: 0 (paciente morre) e 1 (paciente vive). 
+
+
 IV. 
 Artigos Relevantes 
+
+
 a) «A new cluster-based oversampling method for improving survival prediction of hepatocellular      
 carcinoma patients», J. Biomed. Inform., vol. 58, pp. 49–59, dez. 2015, doi: 
 10.1016/j.jbi.2015.09.012. 
@@ -41,8 +55,12 @@ Predicting In-Hospital Mortality after Primary Liver Cancer Surgery», PLOS ONE,
 e35781, abr. 2012, doi: 10.1371/journal.pone.0035781. 
 c) A. Forner, J. M. Llovet, e J. Bruix, «Hepatocellular carcinoma», The Lancet, vol. 379, n.o 9822, pp. 
 1245–1255, mar. 2012, doi: 10.1016/S0140-6736(11)61347-0. 
+
+
 V. 
 Referências 
+
+
 [1] «HCC survival data set». Acedido: 16 de novembro de 2023. Disponível em: 
 https://www.kaggle.com/datasets/mirlei/hcc-survival-data-set 
 Mestrado em Bioengenharia – Engenharia Biomédica 
