@@ -25,7 +25,9 @@ IV.
 Relevant Articles
 
 a) “A new cluster-based oversampling method for improving survival prediction of hepatocellular carcinoma patients,” J. Biomed. Inform., vol. 58, pp. 49–59, Dec. 2015, doi: 10.1016/j.jbi.2015.09.012.
+
 b) H.-Y. Shi et al., “Comparison of Artificial Neural Network and Logistic Regression Models for Predicting In-Hospital Mortality after Primary Liver Cancer Surgery,” PLOS ONE, vol. 7, no. 4, p. e35781, Apr. 2012, doi: 10.1371/journal.pone.0035781.
+
 c) A. Forner, J. M. Llovet, and J. Bruix, “Hepatocellular carcinoma,” The Lancet, vol. 379, no. 9822, pp. 1245–1255, Mar. 2012, doi: 10.1016/S0140-6736(11)61347-0.
 
 
@@ -34,6 +36,9 @@ References
 
 [1] “HCC survival data set.” Accessed: November 16, 2023. Available at: https://www.kaggle.com/datasets/mirlei/hcc-survival-data-set
 Master’s in Bioengineering – Biomedical Engineering, DACO – Computer-Aided Diagnosis, 2023/2024.
+
 [2] Anon., European Association for the Study of the Liver; European Organisation for Research and Treatment of Cancer, “EASL–EORTC clinical practice guidelines: management of hepatocellular carcinoma,” J. Hepatol. 56 (4) 2012, 908–943.
+
 [3] P. A. Miriam Santos, “HCC Survival.” UCI Machine Learning Repository, 2015. doi: 10.24432/C5TS4S.
+
 [4] “A new cluster-based oversampling method for improving survival prediction of hepatocellular carcinoma patients,” J. Biomed. Inform., vol. 58, pp. 49–59, Dec. 2015, doi: 10.1016/j.jbi.2015.09.012.
